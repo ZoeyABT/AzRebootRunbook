@@ -1,5 +1,3 @@
-param($farm)
-
 #Define the script block to be executed via runCommand
 $runCommandPayload = {
  
